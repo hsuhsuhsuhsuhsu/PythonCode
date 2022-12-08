@@ -8,7 +8,7 @@
   
 ## Deep Learning Application
   Text emotion dection - Using the post on twitter, applied on machine learning modelsc (SVM, logistic regression)<br> 
-  and deep learning modelc (CNN), predict the emotion of the post.<br>
+  and deep learning model (CNN), predict the emotion of the post.<br>
   
   Speech emotion dection - Using datasets with labels provided by professional agency, applied on CNN to predict the emotion of the short sentence speech.
 
