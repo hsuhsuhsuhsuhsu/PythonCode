@@ -1,0 +1,43 @@
+ 
+
+Vbews of process contre yplications need twe
+
+hinds of infarmatian: data and events, Data is
+
+handled by the process control data base management
+
+ysten (PEDB), while coenti, iver, softeare
+
+liggering, by the eventhandling means (EAM). Data
+and events are gained by the data acquisition and
+
+contrel package (DCP), and ean be represented ly the
+display communication yen (DIC OM.
+
+Ina dis
+
+network interconnects the diferent control
+
+ 
+
+pibuted real-time Yysen a local area
+
+computers, 5a. the ysem software tools are
+
+ 
+
+inflemented in a distributed way too.
+
+The software architeure of a large
+distributed process contral systems presented in
+
+the paper.
+
+  
+
+Keywords, Distributed proceis control: data base
+management iyken: event handlings data acquisition:
+digital controls man-machine communication: local
+
+area network,
+
